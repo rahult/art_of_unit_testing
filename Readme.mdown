@@ -2,3 +2,5 @@ The Art of Unit Testing
 =======================
 
 Website: [http://artofunittesting.com/](http://artofunittesting.com/)
+
+This repository should contain all the examples from the book "The Art of Unit Testing" as Ruby code.
